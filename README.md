@@ -1,8 +1,8 @@
-######_**name: José Abril García;**_######
+_**name: José Abril García;**_
 
 _located_in: Málaga, Spain;_
 
-**current_job: ##Estudent of DAM##;**
+**current_job: Estudent of DAM;**
 
 education:
   [
