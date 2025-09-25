@@ -10,4 +10,4 @@ Estudios:
     "Estudiante de DAM (Desarrollo de aplicaciones multiplataformas)",
   ]
   
-hobbies: ["videojuegos", "impresión 3D", "modelado3D"]
+hobbies: ["videojuegos", "impresión 3D", "modelado 3D"]
