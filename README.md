@@ -1,13 +1,13 @@
-_**name: José Abril García;**_
+_**nombre: José Abril García;**_
 
-_located_in: Málaga, Spain;_
+_localidad: Málaga, España;_
 
-**current_job: Estudent of DAM;**
+**Que hago actualmente: Estudio DAM;**
 
-education:
+Estudios:
   [
-    "technical high school",
-    "Estudent of DAM",
+    "Bachillerato tecnológico",
+    "Estudiante de DAM (Desarrollo de aplicaciones multiplataformas)",
   ]
   
-hobbies: ["Gaming", "Cinema", "3D printing", "3D design"]
+hobbies: ["videojuegos", "impresión 3D", "modelado3D"]
