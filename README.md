@@ -7,5 +7,3 @@ _localidad: Málaga, España;_
 Estudios:
   [Bachillerato tecnológico],
   [Estudiante de DAM] (Desarrollo de aplicaciones multiplataformas),
-  
-hobbies: [videojuegos], [impresión 3D], [modelado 3D]
